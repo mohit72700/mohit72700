@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...data science
 - 🌱 I’m currently learning ...data structure and algorithm
 - 💞️ I’m looking to collaborate on ...project
-- 📫 How to reach me ...by using my eemail address
+- 📫 How to reach me ...by using my email address
 
 <!---
 mohit72700/mohit72700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
