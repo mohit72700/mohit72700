@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @mohit72700
-- 👀 I’m interested in ...data science
-- 🌱 I’m currently learning ...data structure and algorithm
-- 💞️ I’m looking to collaborate on ...project
-- 📫 How to reach me ...by using my email address
+
+<h2> Hi there, I am Mohit Rathore </a> </h2>
+<p> I am a final year M.tech student from National Institute of Technology Rourkela, pursuing M.Tech in Computer Science and Engineering
+  Adept at motivating self and others. I am an Open source enthusiast and passionate about coding, Machine Learning and to learn about new technologies and I wish to reach the pinnacle in computing and research field with sheer determination, dedication and hardwork.
+
+  - Currrnetly I am focusing on my programming skill  and Machine Learning.
+</p>
+- 🏠 How to reach me: [linkedIn](https://www.linkedin.com/in/thakurmohit0005/)
+
+#### 👨‍💻 &nbsp;&nbsp;My passions
+* Problem solving
+* Machine Learning
+* Technology
+* Software
+  
 
 <!---
 mohit72700/mohit72700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
