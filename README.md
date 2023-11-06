@@ -1,6 +1,6 @@
 
-<h2> Hi there, I am Mohit Rathore </a> </h2>
-<p> I am a final year M.tech student from National Institute of Technology Rourkela, pursuing M.Tech in Computer Science and Engineering
+<h2 style="color: Blue;"> Hi there, I am Mohit Rathore </a> </h2>
+<p> I am a final year M.tech student from National Institute of Technology Rourkela, pursuing M.Tech in Software Engineering
   Adept at motivating self and others. I am an Open source enthusiast and passionate about coding, Machine Learning and to learn about new technologies and I wish to reach the pinnacle in computing and research field with sheer determination, dedication and hardwork.
 
   - Currrnetly I am focusing on my programming skill  and Machine Learning.
